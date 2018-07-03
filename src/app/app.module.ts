@@ -7,7 +7,6 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { MyApp } from './app.component';
 import { FavoritesPage } from '../pages/favorites/favorites';
 import { LibraryPage } from '../pages/library/library';
-import { QuotePage } from '../pages/quote/quote';
 import { QuotesPage } from '../pages/quotes/quotes';
 import { TabsPage } from '../tabs/tabs';
 
@@ -16,7 +15,6 @@ import { TabsPage } from '../tabs/tabs';
     MyApp,
     FavoritesPage,
     LibraryPage,
-    QuotePage,
     QuotesPage,
     TabsPage
   ],
@@ -29,7 +27,6 @@ import { TabsPage } from '../tabs/tabs';
     MyApp,
     FavoritesPage,
     LibraryPage,
-    QuotePage,
     QuotesPage,
     TabsPage
   ],
